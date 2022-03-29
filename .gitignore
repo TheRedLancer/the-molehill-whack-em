@@ -1,2 +1,5 @@
 /MoleHill
-/TextMeshPro
+/Assets/TextMesh*
+/Library
+/Assets/Tiny*
+/Assets/rpgTileMap
